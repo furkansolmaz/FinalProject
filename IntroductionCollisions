@@ -1,4 +1,6 @@
 Transportation is one of the most significant thing in our lives and people use many cars, bicycle or any vehicles to go everywhere. 
-People can crash with them because of many reasons. This includes all types of collisions. 
-Collisions will display at the intersection or mid-block of a segment. So it is important to detect that why many vehicles crash with others.
-So in this project I'm going to make a program which can detect and reduce the rate the vehicles crash with others.
+People can crash with them because of many reason such as vehicle hits pedestrians or bicycle etc. This project includes all types of collisions. 
+Collisions will display at the intersection or mid-block of a segment. 
+For this reason it is important to classify that why vehicles hit the others or which reason is the top collision in the state 
+because of fatality and serious injuries about collisons affects state and people.
+So in this project I'm going to make a program which can classify vehicles crash with others.
